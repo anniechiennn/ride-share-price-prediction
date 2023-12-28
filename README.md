@@ -1,4 +1,4 @@
-# ride-share-price-prediction
+# Uber and Lyft Trip Fare Price Prediction
 
 In this project, our primary objective is to provide a prediction of Uber and Lyft surge prices under different weather and geolocation factors, such as: temperature, rain, wind, pick up location, and destination, to enhance passengers’ ability to make informed booking decisions.
 We aim to solve the problem of fluctuating Uber and Lyft fares under the influence of unpredictable surge pricing, offering passengers a reliable tool to estimate the cost of their trips.
